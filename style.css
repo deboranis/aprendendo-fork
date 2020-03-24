@@ -1,0 +1,14 @@
+.header {
+    background-image: url(images/starry-sky.jpg);
+    height: 100px;
+
+}
+.header_menu {
+    list-style: none;
+    display: inline-block
+}
+
+.header_menu_link {
+    text-decoration: none;
+    padding: 10px;
+}
